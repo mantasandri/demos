@@ -3,6 +3,7 @@
 <!DOCTYPE HTML> 
 <html>
 <head>
+	<meta charset="utf-8">
 	<title>String Converter</title>
 </head>
 <body style="text-align:center;">
